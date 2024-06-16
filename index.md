@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Rosalie Law"
   text: "Portfolio & Blog"
-  tagline: My great project tagline
+  tagline: Test deployment of VitePress site to GitHub.io pages
   actions:
     - theme: brand
       text: Markdown Examples
