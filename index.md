@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Rosalie Law"
-  text: "Career & Blog"
+  name: "rosalielaw"
+  text: "*Career & Blog*"
   tagline: 
   actions:
     - theme: brand
