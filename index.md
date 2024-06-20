@@ -5,21 +5,24 @@ layout: home
 hero:
   name: "Rosalie Law"
   text: "Portfolio & Blog"
-  tagline: Test deployment of VitePress site to GitHub.io pages
+  tagline: 
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Career
+      link: /career
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Blog
+      link: /blog
 
 features:
-  - title: Feature A
+  - title: Career
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+    link: /career
+  - title: Blog
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /blog
+  - title: Markdown cheatsheet
+    details: Check out this cheatsheet for help with Markdown syntax
+    link: https://www.markdownguide.org/cheat-sheet/
 ---
 
