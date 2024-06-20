@@ -27,7 +27,7 @@ features:
 ---
 
 # maar hier wel
-zoals een link naar [Google](www.google.com)
+zoals een link naar [Google](https://www.google.com)
 
 Of een markdown table:
 
