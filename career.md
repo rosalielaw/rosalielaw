@@ -44,6 +44,8 @@ Rechtsgeleerdheid
 ### Colloquium Doctum
 *Augustus 2022 – Januari 2023*
 
+21+ toets behaald
+
 ### Summa College Juridische Beroepen
 *September 2019 – Juni 2022*
 
