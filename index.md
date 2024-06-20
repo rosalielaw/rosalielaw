@@ -26,3 +26,12 @@ features:
     link: https://www.markdownguide.org/cheat-sheet/
 ---
 
+# maar hier wel
+zoals een link naar [Google](www.google.com)
+
+Of een markdown table:
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
