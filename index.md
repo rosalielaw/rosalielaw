@@ -26,12 +26,5 @@ features:
     link: https://www.markdownguide.org/cheat-sheet/
 ---
 
-# maar hier wel
-zoals een link naar [Google](https://www.google.com)
-
-Of een markdown table:
-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+# LinkedIn
+(https://www.linkedin.com/in/rosalie-van-der-hoeven-30925b1a4)
