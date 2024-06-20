@@ -37,12 +37,14 @@ Bij Tribuo heb ik stage gelopen als juridisch administratief dienstverlener, waa
 # Education
 
 ### Tilburg University
-Rechtsgeleerdheid
 *Januari 2023 – Heden*
+
+Rechtsgeleerdheid
 
 ### Colloquium Doctum
 *Augustus 2022 – Januari 2023*
 
 ### Summa College Juridische Beroepen
-Juridisch Medewerker
 *September 2019 – Juni 2022*
+
+Juridisch Medewerker
