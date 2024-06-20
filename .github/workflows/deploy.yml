@@ -24,7 +24,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-
+  # Set the build directory for VitePress
+  VITEPRESS_BUILD_DIR: .vitepress/dist
 
 jobs:
   # Build job
