@@ -24,10 +24,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  # Set the build directory for VitePress
-  REQUEST_PATH: openai/request
-  API_URL: https://api.aimlapi.com/
-  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
 
 jobs:
   # Build job
