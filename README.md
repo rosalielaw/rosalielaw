@@ -1,7 +1,6 @@
 # Rosalie Law
 
 This VitePress site is hosted from GitHub.io pages at [www.rosalielaw.com](https://www.rosalielaw.com).
-Test commit
 
 ## Setup / Requirements
 
