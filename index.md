@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "rosalielaw"
-  text: "*Career & Blog*"
+  text: "Career & Blog"
   tagline: 
   actions:
     - theme: brand
