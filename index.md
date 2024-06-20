@@ -16,10 +16,10 @@ hero:
 
 features:
   - title: Career
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Experience and education
     link: /career
   - title: Blog
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Law & Technology related
     link: /blog
   - title: Markdown cheatsheet
     details: Check out this cheatsheet for help with Markdown syntax
