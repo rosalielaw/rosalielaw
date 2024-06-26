@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Experience', link: '/career' },
+      { text: 'Experience', link: '/experience' },
       { text: 'Blog', link: '/blog' },
     ],
 
@@ -16,7 +16,7 @@ export default defineConfig({
       {
         text: '',
         items: [
-          { text: 'Experience', link: '/career' },
+          { text: 'Experience', link: '/experience' },
           { text: 'Blog', link: '/blog' },]
       }
     ],

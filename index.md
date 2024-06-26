@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Experience
-      link: /career
+      link: /experience
     - theme: alt
       text: Blog
       link: /blog
@@ -19,7 +19,7 @@ hero:
 features:
   - title: Experience
     details: Experience and education
-    link: /career
+    link: /experience
   - title: Blog
     details: Law & Technology related
     link: /blog

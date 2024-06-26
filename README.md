@@ -29,7 +29,7 @@ npm run docs:build
 npm run docs:preview
 ```
 
-It's good practice to store all images in the `./images` directory for example `./images/blog` and `./images/career`.
+It's good practice to store all images in the `./images` directory for example `./images/blog` and `./images/experience`.
 
 Images like the [favicon](https://www.google.com/search?q=favicon+explained) should be in the `./images`
 directory.
