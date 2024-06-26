@@ -34,5 +34,4 @@ features:
 Image Example
 ![rosalielaw](./images/logo.jpeg)
 
-It's good practice to store all images in the (./images)[./images] directory.
-This way, you can easily reference them in your Markdown files.
+
