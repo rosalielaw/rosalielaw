@@ -27,4 +27,4 @@ features:
 ---
 
 
-LinkedIn: https://www.linkedin.com/in/rosalie-van-der-hoeven-30925b1a4
+[LinkedIn](https://www.linkedin.com/in/rosalie-van-der-hoeven-30925b1a4)
