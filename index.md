@@ -6,18 +6,18 @@ layout: home
 
 hero:
   name: "rosalielaw"
-  text: "Career & Blog"
+  text: "Experience & Blog"
   tagline: 
   actions:
     - theme: brand
-      text: Career
+      text: Experience
       link: /career
     - theme: alt
       text: Blog
       link: /blog
 
 features:
-  - title: Career
+  - title: Experience
     details: Experience and education
     link: /career
   - title: Blog

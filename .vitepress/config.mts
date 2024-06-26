@@ -3,12 +3,12 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Rosalie Law",
-  description: "Career & Blog",
+  description: "Experience & Blog",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Career', link: '/career' },
+      { text: 'Experience', link: '/career' },
       { text: 'Blog', link: '/blog' },
     ],
 
@@ -16,7 +16,7 @@ export default defineConfig({
       {
         text: '',
         items: [
-          { text: 'Career', link: '/career' },
+          { text: 'Experience', link: '/career' },
           { text: 'Blog', link: '/blog' },]
       }
     ],
