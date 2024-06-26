@@ -5,7 +5,7 @@
 layout: home
 
 hero:
-  name: "rosalielaw"
+  name: "Rosalie Law"
   text: "Experience & Blog"
   tagline: 
   actions:
@@ -29,7 +29,7 @@ features:
 ---
 
 
-![rosalielaw](./images/logo.jpeg)
+![Rosalie Law](./images/logo.jpeg)
 
 [LinkedIn](https://www.linkedin.com/in/rosalie-van-der-hoeven-30925b1a4)
 
