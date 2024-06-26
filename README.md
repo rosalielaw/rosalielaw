@@ -29,9 +29,9 @@ npm run docs:build
 npm run docs:preview
 ```
 
-It's good practice to store all images in the (./images)[./images] directory.
-For now it's easier to store them in this directory. But you might want a division between blog and career images in
-this folder.
+It's good practice to store all images in the (./images)[./images] directory;
+[./images/blog](./images/blog) and [./images/career](./images/career) should be used if images 
+are specific to a blog or career page. Otherwise place them in the [./images](./images) directory.
 
 Images like the [favicon](https://www.google.com/search?q=favicon+explained) should be in the [./images](./images)
 directory.
