@@ -28,3 +28,9 @@ features:
 
 
 [LinkedIn](https://www.linkedin.com/in/rosalie-van-der-hoeven-30925b1a4)
+
+Image Example
+![An image](./images/test.png)
+
+It's good practice to store all images in the (./images)[./images] directory.
+This way, you can easily reference them in your Markdown files.
