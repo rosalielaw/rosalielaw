@@ -69,7 +69,7 @@ export default defineConfig({
         ],
         footer: {
             message: 'Released under the <a href="https://raw.githubusercontent.com/rosalielaw/rosalielaw/main/LICENSE">MIT</a> License.',
-            copyright: 'Copyright © 2024 Rosalie van der Hoeven.</br>'
+            copyright: '© 2024 Rosalie van der Hoeven.</br>'
         },
     },
     sitemap: {
