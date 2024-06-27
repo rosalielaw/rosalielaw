@@ -26,7 +26,7 @@ features:
   - title: Blog
     details: Law & Technology related
     link: /blog
-  - title: Markdown cheatsheet
-    details: Check out this cheatsheet for help with Markdown syntax
-    link: https://www.markdownguide.org/cheat-sheet/
+  - title: LinkedIn
+    details: LinkedIn profile
+    link: https://www.linkedin.com/in/rosalie-van-der-hoeven-30925b1a4
 ---
