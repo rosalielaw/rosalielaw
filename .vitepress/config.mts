@@ -51,7 +51,7 @@ export default defineConfig({
             provider: 'local'
         },
         socialLinks: [
-            {icon: 'github', link: 'https://github.com/rosalielaw/rosalielaw'},
+            {icon: 'github', link: 'https://github.com/rosalielaw'},
             {icon: 'linkedin', link: 'https://www.linkedin.com/in/rosalie-van-der-hoeven-30925b1a4'}
         ],
         nav: [
