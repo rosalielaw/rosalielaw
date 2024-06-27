@@ -37,7 +37,7 @@ npm run docs:preview
 Commit to `main` branch and push to GitHub. The site will be automatically deployed to GitHub Pages.
 
 ### Images
-It's good practice to store all images in the `./images` directory for example `./images/blog` and `./images/experience`.
+It's good practice to store all images in the `./public/images` directory for example `./public/images/blog` and `./public/images/experience`.
 
-Images like the [favicon](https://www.google.com/search?q=favicon+explained) should be in the `./images`
+Images like the [favicon](https://www.google.com/search?q=favicon+explained) should be in the `./public` directory.
 directory.
