@@ -29,5 +29,6 @@ features:
 ---
 
 
-![Rosalie Law](./images/logo.jpeg)
+remove example
+
 
