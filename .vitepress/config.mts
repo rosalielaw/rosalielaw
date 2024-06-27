@@ -45,7 +45,7 @@ export default defineConfig({
             height: 50
         },
         editLink: {
-            pattern: 'https://github.com/jonnyhoeven/justme.dev/edit/main/:path'
+            pattern: 'https://github.com/rosalielaw/rosalielaw/edit/main/:path'
         },
         search: {
             provider: 'local'
