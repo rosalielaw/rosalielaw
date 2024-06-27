@@ -27,8 +27,3 @@ features:
     details: Check out this cheatsheet for help with Markdown syntax
     link: https://www.markdownguide.org/cheat-sheet/
 ---
-
-
-remove example
-
-
