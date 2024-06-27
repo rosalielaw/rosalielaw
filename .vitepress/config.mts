@@ -69,9 +69,7 @@ export default defineConfig({
         ],
         footer: {
             message: 'Released under the <a href="https://raw.githubusercontent.com/rosalielaw/rosalielaw/main/LICENSE">MIT</a> License.',
-            copyright: 'Copyright © 2024 Rosalie van der Hoeven.</br>' +
-                '<a href="https://github.com/rosalielaw/rosalielaw/actions/workflows/deploy.yml" target="_blank"><img alt="Github deploy workflow status badge" class="homeBadge" src="https://github.com/rosalielaw/rosalielaw/actions/workflows/deploy.yml/badge.svg?branch=main"></a>' +
-                '<a href="https://github.com/rosalielaw/rosalielaw/actions/workflows/github-code-scanning/codeql" target="_blank"><img alt="Github code scanning badge" src="https://github.com/rosalielaw/rosalielaw/actions/workflows/github-code-scanning/codeql/badge.svg"></a>'
+            copyright: 'Copyright © 2024 Rosalie van der Hoeven.</br>'
         },
     },
     sitemap: {
