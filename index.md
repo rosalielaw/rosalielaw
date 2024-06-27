@@ -7,7 +7,10 @@ layout: home
 hero:
   name: "Rosalie Law"
   text: "Experience & Blog"
-  tagline: 
+  tagline: Navigating Law and Technology
+  image:
+    src: /images/logo.svg
+    alt: Rosalie Law
   actions:
     - theme: brand
       text: Experience
