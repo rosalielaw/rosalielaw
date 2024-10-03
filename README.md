@@ -13,31 +13,24 @@ npm install
 
 ### Development
 
-When you want to test the site locally, run the following command:
+Test the site locally, by runnning the following command:
 
 ```bash
 npm run docs:dev
 ```
 
-### Build
+### Build & preview
 
-To build the site, run the following command:
+Build it:
 ```bash
 npm run docs:build
 ```
 
-### Preview build
-
-To preview the build, run the following command:
+Preview your build:
 ```bash
 npm run docs:preview
 ```
 
 ### Deploy to GitHub Pages
-Commit to `main` branch and push to GitHub. The site will be automatically deployed to GitHub Pages.
 
-### Images
-It's good practice to store all images in the `./public/images` directory for example `./public/images/blog` and `./public/images/experience`.
-
-Images like the [favicon](https://www.google.com/search?q=favicon+explained) should be in the `./public` directory.
-directory.
+Commit to `main` and push to GitHub.
